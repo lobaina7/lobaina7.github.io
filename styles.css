@@ -1,0 +1,35 @@
+:root {
+    
+--hp-primary:yellow;
+--hp-bg-strong: #FDDD6E;
+--hp-bg-middle:#FDE784; 
+--hp-bg-lite: #FDED8E;
+
+--hp-bg-bone: #FBF4EC;
+--hp-bg-light: #FDFBEF;
+--hp-white: white;
+
+--hp-black: black;
+--hp-bg-dark: #140F0B;
+--hp-bg-lite-dark:#2D2824;
+
+
+}
+
+.header {
+    background-color: var(--hp-bg-lite-dark);
+    color: var(--hp-bg-lite);
+    padding: 20px;
+    text-align: center;
+  }
+
+  .menu {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .menu li {
+    margin: 0 10px;
+  }
