@@ -18,8 +18,11 @@
 
 .header {
     background-color: var(--hp-bg-lite-dark);
-    color: var(--hp-bg-lite);
+    color: var(--hp-bg-bone);
     padding: 20px;
     margin: 0px
   }
 
+.font-bold {
+    font-weight: 700;
+  }
