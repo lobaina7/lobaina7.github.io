@@ -19,6 +19,7 @@
 .header {
     background-color: var(--hp-bg-lite-dark);
     color: var(--hp-bg-lite);
-    padding: 0px;
+    padding: 20px;
+    margin: 0px
   }
 
